@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "name": "Learn React",
+      "isComplete": false
+    },
+    {
+      "name": "Learn Redux",
+      "isComplete": false
+    },
+    {
+      "name": "Build an app",
+      "isComplete": false
+    }
+  ]
+}
